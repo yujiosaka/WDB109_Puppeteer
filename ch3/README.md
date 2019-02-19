@@ -17,5 +17,5 @@ $ npm test
 ### テストのデバッグ実行
 
 ```sh
-EBUG=true npm test
+$ DEBUG=true npm test
 ```
