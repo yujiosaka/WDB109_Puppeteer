@@ -1,6 +1,13 @@
 # WDB109_Puppeteer
 
-WEB+DB PRESS Vol.109 特集「速習Puppeteer──ヘッドレスChromeでテスト＆スクレイピング」サンプルコード
+[WEB+DB PRESS Vol.109](https://gihyo.jp/magazine/wdpress/archive/2019/Vol109) 特集「速習Puppeteer──ヘッドレスChromeでテスト＆スクレイピング」サンプルコード
+
+## 特集目次
+
+- 第1章: Puppeteer の魅力は何か──ヘッドレスChromeを自由自在に操る
+- 第2章: ブラウザ操作自動化の基本──非同期処理を扱う async/await 関数、自動化の鍵を握る Puppeteer コンポーネント
+- 第3章: E2E テストの実装──非同期処理のテスト、パフォーマンス計測、カバレッジ
+- 第4章: スクレイピングの実装──人気サービス「note」のタイムラインを取得する
 
 ## ディレクトリ構成
 
@@ -18,3 +25,17 @@ WEB+DB PRESS Vol.109 特集「速習Puppeteer──ヘッドレスChromeでテ�
 - Node.js：10.15.0
 - Puppeteer：1.11.0
 - Meteor: 1.8.0.2 (第3章でのみテスト対象として使用)
+
+## ライセンス
+
+サンプルコードはMITライセンスで配布しています。
+
+http://opensource.org/licenses/mit-license.php
+
+## お問い合わせ
+
+不具合があった場合は[本書Webページ](https://gihyo.jp/magazine/wdpress/archive/2019/Vol109)よりお問い合わせをお願いいたします。
+
+## ご注意
+
+本サンプルコード、特集の内容に基づく運用結果について、著者、ソフトウェアの開発元および提供元、株式会社技術評論社は一切の責任を負いかねますので、あらかじめご了承ください。
